@@ -2,3 +2,5 @@ Luke Skywalker
 Darth VAder
 Obi Wan Kenobi
 teste
+Ram Solo
+R2D2
